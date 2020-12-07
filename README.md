@@ -1,7 +1,7 @@
 > [test@gmail.com](mailto:test@gmail.com) | 
 [919.478.1889](tel:7745789878)
 
-# Sunny Sahu &ndash; Senior Quality Engineer
+# Robin Sharma &ndash; Senior Quality Engineer
 - 7+ years of experience as a software engineer in various industries
 - Full stack engineer with a concentration on front-end technologies
 - Trained and mentored several front-end engineers
