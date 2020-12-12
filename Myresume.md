@@ -5,7 +5,6 @@ Energetic and innovative user experience designer, skilled at understanding an
 
 ## Education
 **Northeastern University, Boston, MA | Expected Dec 2020**
-
 *M.S. in Information Systems, User Experience*  
 GPA 3.8/4 
 
