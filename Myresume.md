@@ -1,12 +1,14 @@
 > Boston, MA | (617) 755-0015 | sharma.rob@northeastern.edu | https://www.robinsharmadesign.com
 
 # Robin Sharma &ndash; UX/UI Designer
-Energetic and innovative user experience designer, skilled at understanding and communicating a story that drives design of a product with expertise in building and designing UX strategies.
+Energetic and innovative user experience designer, skilled at understanding and communicating a story that drives design of a product with expertise in building and designing UX strategies
+
 
 ## Education
-**Northeastern University, Boston, MA | Expected Dec 2020**
-M.S. in Information Systems, User Experience
-| GPA 3.8/4 
+**Northeastern University, Boston, MA | Sep - Dec 2020**  
+*M.S in Information Systems, User Experience*  
+GPA: 3.8/4
+
 
 ## Experience
 **Northeastern University, Boston, MA | Jan - Apr 2020**  
